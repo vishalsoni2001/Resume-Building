@@ -15,11 +15,12 @@ a{
 #headinggroup
 {
     color: #f38704;
+    
     margin-top: 8rem;
     
 }
 
-
+  
 /*
 #headinggroup3{
     color: #f38704;
@@ -83,7 +84,9 @@ h1{
     color: #212529;
     background-color: #fcae4f;
     border-color:#fcae4f;
+    transform: scale(1.1);
 }
+
 
 .nextlandingpage{
     
@@ -97,7 +100,15 @@ h1{
     margin-left: 5px;
     margin-right: 5px;
 }
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+    background-color: #fcae4f;
+    
 
+}
 
 
 
